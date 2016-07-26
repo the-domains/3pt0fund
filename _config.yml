@@ -1,5 +1,8 @@
+name: 3pt0 Fund
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.7741935
 title: 3pt0 Fund
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1356179169379175
-  brandStrength: 0.9871043318416923
-  lightness: 0.5183067671023309
   brandColors:
     - '#209990'
     - '#5AAAA7'
     - '#FBFFFE'
     - '#537C92'
     - '#A1D3D4'
+  brandStrength: 0.9871043318416923
+  lightness: 0.5183067671023309
+  saturation: 0.1356179169379175
   rhythmicContrast: 0.09820036054588854
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 3pt0fund
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.7741935
-layout_spectrum: 0
+purpose: []
