@@ -4,7 +4,7 @@
         <description><![CDATA[3pt0 Fund]]></description>
         <link>https://thegrid.ai/3pt0fund/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 07:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 04:33:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3pt0fund/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[3pt0 Fund Breakdown]]></title>
@@ -12,13 +12,6 @@
             <link>urn:uuid:ed7c1fc8-29bc-4cbc-986a-cc5f35a3adde</link>
             <guid isPermaLink="false">629b9b8b-687c-4684-9a39-fa03b2b5ccc8</guid>
             <pubDate>Tue, 26 Jul 2016 07:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>sdfhsdflkjhsdlkfjskdfsdfsd</p>]]></description>
-            <link>https://thegrid.ai/3pt0fund/sdfhsdflkjhsdlkfjskdfsdfsd/index.html</link>
-            <guid isPermaLink="false">8b413c44-8b8f-46be-8342-ebd055e105f3</guid>
-            <pubDate>Tue, 26 Jul 2016 04:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
